@@ -105,4 +105,4 @@ if __name__ == "__main__":
     # Create and launch the app
     demo = create_interface()
     # Launch without API documentation to avoid schema issues
-    demo.launch(share=False, show_api=False)
+    demo.launch(share=False, show_api=False, mcp_server=True)
