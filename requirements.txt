@@ -1,4 +1,4 @@
-gradio[mcp]>=5.45.0
+gradio[mcp]
 python-dotenv>=1.0.0
 Pillow>=9.0.0
 requests>=2.28.0
